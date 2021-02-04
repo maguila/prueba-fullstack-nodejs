@@ -1,0 +1,7 @@
+{
+"dependencies": {
+    "mongoose": "^5.11.0",
+    "node-fetch": "^2.6.1",
+    "tulind": "^0.8.18"
+  }
+}
